@@ -1,0 +1,4 @@
+http://venerdi3marzo.test/wp-admin/index.php
+
+nome utente: Mike
+password: password
